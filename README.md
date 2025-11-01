@@ -27,56 +27,6 @@ It automates the daily operations of a mobile phone shop — including managing 
 
 ---
 
-## 📂 Project Structure
-
-MobileShopManagement/
-
-│
-
-├── MobileShopManagement.sln              # Visual Studio solution file
-
-│
-
-├── MobileShopManagement/
-
-│   ├── Program.cs                       # Application entry point
-
-│   ├── App.config                       # Configuration and DB connection string
-
-│   ├── DataAccess.cs                    # Handles database operations
-
-│
-
-│   ├── Form1.cs                         # Login form
-
-│   ├── AdminDashboard.cs                # Admin main dashboard
-
-│   ├── EmployeeDashboard.cs             # Employee main dashboard
-
-│
-
-│   ├── AddCustomer.cs                   # Customer registration form
-
-│   ├── AddEmployee.cs                   # Employee management form
-
-│   ├── AddMobile.cs                     # Mobile product management form
-
-│   ├── Sale.cs                          # Sales management and billing form
-
-│
-
-│   ├── bin/                             # Build output (auto-generated)
-
-│   ├── obj/                             # Temporary build files
-
-│   └── Properties/                      # Project properties and resources
-
-│
-
-└── README.md                            # Project documentation
-
----
-
 ## 💡 Future Enhancements
 
 📄 PDF invoice generation
